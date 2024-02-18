@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_sva_disagflex",
+  "version": "1.0.0",
+  "description": "Disag OSS Flex Result Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus A.",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "node-windows": "^1.0.0-beta.8"
+  }
+}
